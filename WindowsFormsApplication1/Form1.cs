@@ -335,6 +335,7 @@ namespace WindowsFormsApplication1
             sw.WriteLine("mode=" + configItems.iMode.ToString());
 
             sw.Close();
+            // test comment.
         }
 
         private void loadConfiguration()
