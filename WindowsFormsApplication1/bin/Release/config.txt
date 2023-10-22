@@ -1,0 +1,6 @@
+presentHistory=true
+takeBlack=false
+useRule=false
+conponent=1
+level=2
+mode=eMANVSPC
